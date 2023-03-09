@@ -2,7 +2,7 @@ Hi there 👋
 I am Shubham, a Full Stack Software Engineer from 🇮🇳   passionate about developing production-ready applications with 2+ years of professional onsite as well as remote working experience. 🎯
 
 I mostly work with Python, MVC Frameworks and Cloud based technologies. 🚀
-
+https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript
      
 
 DevOps
